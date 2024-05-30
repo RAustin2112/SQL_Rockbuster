@@ -26,5 +26,5 @@ The data set contains information about Rockbuster’s film inventory, customers
 http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip
 
 
-The visualizations were all created usign Tableau.  The following is a link to my Tableau visualizations.  
+The visualizations were all created using Tableau.  The following is a link to my Tableau visualizations.  
 https://public.tableau.com/app/profile/ronda.austin/vizzes
